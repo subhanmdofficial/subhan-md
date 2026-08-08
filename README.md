@@ -13,7 +13,11 @@
 <br>
 
 [![Fork this repo](https://img.shields.io/github/forks/subhanmdofficial/subhan-md?style=for-the-badge&logo=github&color=8A2BE2&label=Fork)](https://github.com/subhanmdofficial/subhan-md/fork)
-[![Star this repo](https://img.shields.io/github/stars/subhanmdofficial/subhan-md?style=for-the-badge&logo=github&color=FFD700&label=Star)](https://github.com/subhanmdofficial/subhan-md/star)
+[
+
+![Star this repo](https://img.shields.io/github/stars/subhanmdofficial/subhan-md?style=for-the-badge&logo=github&color=FFD700&label=Star)
+
+](https://github.com/subhanmdofficial/subhan-md)
 [![Download ZIP](https://img.shields.io/badge/⬇️_Download-ZIP-25D366?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/subhanmdofficial/subhan-md/archive/refs/heads/main.zip)
 [![Issues](https://img.shields.io/github/issues/subhanmdofficial/subhan-md?style=for-the-badge&logo=github&color=FF4444)](https://github.com/subhanmdofficial/subhan-md/issues)
 
