@@ -1,0 +1,60 @@
+{
+  "name": "SUBHAN-MD",
+  "description": "SUBHAN-MD — WhatsApp Multi-Device Bot made in Pakistan by M Subhan Ali",
+  "keywords": ["whatsapp", "bot", "baileys", "multi-device", "nodejs", "pakistan"],
+  "repository": "https://github.com/subhanmdofficial/subhan-md",
+  "logo": "https://raw.githubusercontent.com/subhanmdofficial/subhan-md/main/assets/thumb.png",
+  "website": "https://github.com/subhanmdofficial/subhan-md",
+  "success_url": "/",
+  "stack": "heroku-22",
+  "buildpacks": [
+    { "url": "heroku/nodejs" }
+  ],
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  },
+  "env": {
+    "SESSION_ID": {
+      "description": "Your SUBHAN-MD session ID (leave blank to pair with a phone number instead)",
+      "value": "",
+      "required": false
+    },
+    "PAIRING_NUMBER": {
+      "description": "WhatsApp number with country code (no + or spaces) to receive a pairing code, if not using SESSION_ID",
+      "value": "",
+      "required": false
+    },
+    "BOT_NAME": {
+      "description": "Display name for the bot",
+      "value": "𝐒ᴜʙʜᴀɴ-𝐌ᴅ"
+    },
+    "BOT_OWNER": {
+      "description": "Owner name shown in bot replies",
+      "value": "ᴍ sᴜʙʜᴀɴ ᴀʟɪ"
+    },
+    "OWNER_NUMBER": {
+      "description": "Your WhatsApp number with country code",
+      "value": "923000000000"
+    },
+    "PREFIXES": {
+      "description": "Comma-separated command prefixes",
+      "value": ".,!,/"
+    },
+    "COMMAND_MODE": {
+      "description": "public or private",
+      "value": "public"
+    },
+    "TIMEZONE": {
+      "description": "Timezone for the bot",
+      "value": "Asia/Karachi"
+    },
+    "MONGO_URL": {
+      "description": "MongoDB connection string (optional, leave blank for JSON storage)",
+      "value": "",
+      "required": false
+    }
+  }
+}
