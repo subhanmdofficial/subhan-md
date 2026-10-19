@@ -1,39 +1,69 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="SUBHAN-MD - WhatsApp MD Bot from Pakistan">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:25D366,50:128C7E,100:075E54&height=260&section=header&text=SUBHAN-MD&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Free%20WhatsApp%20Multi-Device%20Bot%20%E2%80%A2%20Made%20in%20Pakistan&descSize=20&descAlignY=60" width="100%" alt="SUBHAN-MD WhatsApp Bot"/>
+
+<a href="https://github.com/subhanmdofficial/subhan-md">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=25D366&center=true&vCenter=true&width=760&lines=%F0%9F%87%B5%F0%9F%87%B0+SUBHAN-MD+%E2%80%94+Free+WhatsApp+MD+Bot;300%2B+Commands+%7C+19+Categories;Subhan+MD+Mini+Bot+%E2%80%A2+Fast+%E2%80%A2+Stable+%E2%80%A2+Free;Deploy+on+Railway+%7C+Render+%7C+Heroku+%7C+VPS+%7C+Termux;Made+by+M+Subhan+Ali" alt="SUBHAN-MD typing animation"/>
+</a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=27&duration=2600&pause=800&color=25D366&center=true&vCenter=true&width=700&lines=%F0%9F%87%B5%F0%9F%87%B0+SUBHAN-MD+%E2%80%94+WhatsApp+MD+Bot;Made+In+Pakistan+by+M+Subhan+Ali;300%2B+Commands+%7C+19+Categories;Fast+%E2%80%A2+Stable+%E2%80%A2+Multi+Device" alt="SUBHAN-MD typing animation">
+<img src="./assets/banner.png" width="85%" alt="SUBHAN-MD — Free WhatsApp Multi-Device Bot made in Pakistan by M Subhan Ali">
 
-### 🇵🇰 The Best WhatsApp MD (Multi-Device) Bot — Made In Pakistan
+<br><br>
 
-**SUBHAN-MD** is the WhatsApp Multi-Device bot every Pakistani developer is searching for on GitHub — built on **Node.js** and **Baileys** by **M Subhan Ali**. Whether you searched *"MD bot GitHub"*, *"best Pakistan MD bot"*, or *"WhatsApp bot deploy Heroku Railway Render"* — you're in the right repo.
+**SUBHAN-MD** (also searched as **Subhan MD bot**, **Subhan MD mini bot**, **Subhan-MD WhatsApp bot**) is a fast, free and open-source **WhatsApp MD bot** built with **Node.js** and **Baileys** by **M Subhan Ali**.
 
 <br>
 
-[![Fork this repo](https://img.shields.io/github/forks/subhanmdofficial/subhan-md?style=for-the-badge&logo=github&color=8A2BE2&label=Fork)](https://github.com/subhanmdofficial/subhan-md/fork)
-[![Star this repo](https://img.shields.io/github/stars/subhanmdofficial/subhan-md?style=for-the-badge&logo=github&color=FFD700&label=Star)](https://github.com/subhanmdofficial/subhan-md)
-[![Download ZIP](https://img.shields.io/badge/⬇️_Download-ZIP-25D366?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/subhanmdofficial/subhan-md/archive/refs/heads/main.zip)
+[![Star](https://img.shields.io/github/stars/subhanmdofficial/subhan-md?style=for-the-badge&logo=github&color=FFD700&label=Stars)](https://github.com/subhanmdofficial/subhan-md)
+[![Fork](https://img.shields.io/github/forks/subhanmdofficial/subhan-md?style=for-the-badge&logo=github&color=8A2BE2&label=Forks)](https://github.com/subhanmdofficial/subhan-md/fork)
+[![Watchers](https://img.shields.io/github/watchers/subhanmdofficial/subhan-md?style=for-the-badge&logo=github&color=00D4FF&label=Watch)](https://github.com/subhanmdofficial/subhan-md)
 [![Issues](https://img.shields.io/github/issues/subhanmdofficial/subhan-md?style=for-the-badge&logo=github&color=FF4444)](https://github.com/subhanmdofficial/subhan-md/issues)
+[![Download](https://img.shields.io/badge/Download-ZIP-25D366?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/subhanmdofficial/subhan-md/archive/refs/heads/main.zip)
+
+![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?style=flat-square&logo=node.js&logoColor=white)
+![Baileys](https://img.shields.io/badge/Baileys-7.x-25D366?style=flat-square&logo=whatsapp&logoColor=white)
+![Commands](https://img.shields.io/badge/Commands-300%2B-FF6B00?style=flat-square)
+![Categories](https://img.shields.io/badge/Categories-19-9146FF?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/subhanmdofficial/subhan-md?style=flat-square&color=25D366)
+![Made in Pakistan](https://img.shields.io/badge/Made%20in-Pakistan-01411C?style=flat-square)
 
 <br>
+
+### 🚀 One-Click Deploy
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subhanmdofficial/subhan-md)
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/subhanmdofficial/subhan-md)
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/subhanmdofficial/subhan-md)
 
+</div>
+
 <br>
 
-<img src="https://img.shields.io/badge/Made%20in-Pakistan%20🇵🇰-01411C?style=flat-square">
-<img src="https://img.shields.io/badge/Node.js-20%2B-339933?style=flat-square&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Baileys-7.x-25D366?style=flat-square&logo=whatsapp&logoColor=white">
-<img src="https://img.shields.io/badge/Commands-300%2B-FF6B00?style=flat-square&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Categories-19-9146FF?style=flat-square">
-<img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square">
-<img src="https://img.shields.io/badge/Platform-Web%20%7C%20VPS%20%7C%20Termux-00D4FF?style=flat-square">
+---
+
+<div align="center">
+
+## ✅ Official Repository
 
 </div>
+
+This is the **original and official SUBHAN-MD repository**, created and maintained by **M Subhan Ali** ([@subhanmdofficial](https://github.com/subhanmdofficial)).
+
+<div align="center">
+
+| | |
+|:---|:---|
+| 👤 **Original Developer** | M Subhan Ali (SUBHAN MD) |
+| 🌐 **Developer Website** | [subhan212.vercel.app](https://subhan212.vercel.app) |
+| 📦 **Official Repo** | [github.com/subhanmdofficial/subhan-md](https://github.com/subhanmdofficial/subhan-md) |
+| 📜 **License** | MIT — © 2026 M Subhan Ali |
+
+</div>
+
+Forks are allowed under the MIT License, **but the original copyright notice must be kept**. A fork is not the original. If someone claims to own SUBHAN-MD, check that the repo belongs to `subhanmdofficial` and compare the commit history.
 
 <br>
 
@@ -41,56 +71,34 @@
 
 ## 📖 Table of Contents
 
-- [About](#-about-subhan-md)
-- [Why SUBHAN-MD?](#-why-subhan-md)
-- [Command Categories](#-command-categories)
-- [Requirements](#-requirements)
-- [Quick Start](#-quick-start)
-- [Session Setup](#-session-setup)
-- [Configuration](#-configuration)
-- [One-Click Deployment](#-one-click-deployment)
-- [Storage Backends](#-storage-backends)
-- [Plugin System](#-plugin-system)
-- [Troubleshooting](#-troubleshooting)
-- [Disclaimer](#-disclaimer)
-- [License](#-license)
+[About](#-what-is-subhan-md) · [Features](#-features) · [Commands](#-command-categories) · [Requirements](#-requirements) · [Quick Start](#-quick-start) · [Connect WhatsApp](#-connect-whatsapp) · [Config](#-configuration) · [Deploy](#-free-deployment) · [Database](#-database-support) · [Plugins](#-plugin-system) · [Roman Urdu](#-roman-urdu-guide) · [FAQ](#-faq) · [Troubleshooting](#-troubleshooting)
 
 <br>
 
 ---
 
-## 🚀 About SUBHAN-MD
+## 🚀 What is SUBHAN-MD?
 
-**SUBHAN-MD** (𝐒ᴜʙʜᴀɴ-𝐌ᴅ) is a next-generation **WhatsApp Multi-Device (MD) bot**, engineered on **Node.js** and the **Baileys** socket library. It ships with **300+ commands across 19 categories**, an auto-loading plugin architecture, and support for **five storage backends** — from a zero-setup JSON store to full MongoDB, PostgreSQL, MySQL, or SQLite.
+**SUBHAN-MD** is a free, open-source **WhatsApp Multi-Device (MD) bot** written in JavaScript on top of the **Baileys** library. It ships with **300+ ready-made commands in 19 categories**, an auto-loading plugin system, group protection, downloaders, stickers, AI chat and image tools, and it runs on free hosting.
 
-It's designed and maintained by **M Subhan Ali** from **Pakistan 🇵🇰**, with one clear goal: give Pakistani (and global) developers the most complete, most reliable WhatsApp MD bot to deploy, extend, and run 24/7.
+Looking for the **Subhan MD mini bot**? SUBHAN-MD is tuned for low-RAM servers (small message store, automatic temp cleanup, memory guard), so it works as a lightweight mini bot on free plans.
+
+<br>
+
+---
+
+## ✨ Features
 
 <div align="center">
 
-| | |
-|:---|:---|
-| 👤 **Developer** | M Subhan Ali |
-| 🌍 **Made In** | Pakistan 🇵🇰 |
-| ⚡ **Engine** | Node.js 20+ · Baileys 7.x |
-| 🔌 **Commands** | 300+ across 19 categories |
-| 🗄️ **Storage** | MongoDB · PostgreSQL · MySQL · SQLite · JSON |
-| 📜 **License** | MIT |
+| | | |
+|:---:|:---:|:---:|
+| 🆓 **Free & Open Source**<br><sub>MIT License</sub> | ⚡ **300+ Commands**<br><sub>19 categories</sub> | 🔌 **Auto-Load Plugins**<br><sub>Drop a file, done</sub> |
+| 🗄️ **5 Databases**<br><sub>JSON · Mongo · Postgres · MySQL · SQLite</sub> | 🛡️ **Group Protection**<br><sub>Anti-link, spam, badword, call</sub> | 📥 **Downloaders**<br><sub>TikTok, IG, Spotify, FB, X</sub> |
+| 🤖 **AI Tools**<br><sub>GPT, Llama, Mistral</sub> | 🎨 **Stickers & Media**<br><sub>Maker, crop, filters, remove bg</sub> | 🎮 **Games**<br><sub>Hangman, TicTacToe, Sudoku</sub> |
+| ⏰ **Scheduler**<br><sub>Timed messages</sub> | 🧩 **Pair / Rent System**<br><sub>Host other sessions</sub> | 🖥️ **Deploy Anywhere**<br><sub>Railway, Render, Heroku, VPS, Termux</sub> |
 
 </div>
-
-<br>
-
----
-
-## ⭐ Why SUBHAN-MD?
-
-- 🇵🇰 **Built in Pakistan, built for scale** — actively maintained, production-tested, and tuned for low-RAM hosting.
-- ⚡ **Zero-config plugins** — drop a file in `plugins/`, it auto-loads with no manual registration.
-- 🗄️ **Any database you want** — JSON works out of the box, or plug in MongoDB, PostgreSQL, MySQL, or SQLite via a single env variable.
-- 🛡️ **Serious group protection** — anti-link, anti-spam, anti-bad-word, anti-call, anti-delete, and a full warning system.
-- 🤖 **AI built in** — chat commands plus image tools, no third-party bot required.
-- 🧩 **Session cloning / bot rental ready** — let others pair their own session off your host.
-- 🖥️ **Deploy anywhere** — Heroku, Railway, Render, a VPS, or Termux — pick a button and go.
 
 <br>
 
@@ -98,35 +106,33 @@ It's designed and maintained by **M Subhan Ali** from **Pakistan 🇵🇰**, wit
 
 ## 🧩 Command Categories
 
-SUBHAN-MD organizes its 300+ commands into **19 categories**:
-
 <div align="center">
 
-| Category | Focus |
+| Category | What it does |
 |:---|:---|
-| 👑 **Owner** | Bot control — restart, broadcast, session, settings |
-| 🛡️ **Admin** | Group moderation — ban, mute, warn, kick, promote |
-| 🛠️ **Tools** | Utilities — converters, calculators, generators |
-| 📥 **Download** | TikTok, Instagram, Spotify, YouTube, Twitter, and more |
-| 🧰 **Utility** | Everyday helper commands |
-| 👥 **Group** | Group management and settings |
-| ℹ️ **Info** | Lookups — whois, group info, stats |
-| 🎨 **Stickers** | Sticker creation, cropping, conversion |
-| 💬 **General** | Core, always-on commands |
-| ☁️ **Upload** | Media hosting and file uploads |
-| 😄 **Fun** | Games, jokes, insults, compliments |
-| 🔎 **Stalk** | Social lookups — Instagram, Telegram, GitHub |
+| 👑 **Owner** | Restart, broadcast, settings, sudo, ban/unban, bot rental |
+| 🛡️ **Admin** | Kick, promote, demote, mute, warn, tag all, hidetag |
+| 👥 **Group** | Group info, settings, welcome/goodbye, invite links |
+| 🛠️ **Tools** | Converters, calculators, text tools, QR code, translate |
+| 📥 **Download** | TikTok, Instagram, Spotify, Facebook, Twitter, MEGA and more |
+| ☁️ **Upload** | Catbox, Litterbox, Pixhost and other file hosts |
+| 🎨 **Stickers** | Create, crop and convert stickers |
 | 🖼️ **Images** | Image generation and editing |
-| 🎮 **Games** | Hangman, trivia, sudoku, tic-tac-toe |
-| 🤖 **AI** | AI chat and image generation |
-| 📜 **Quotes** | Quote and status generators |
-| 🎵 **Music** | Song search and playback |
-| 📋 **Menu** | Command list and help |
-| 🔍 **Search** | Wikipedia, dictionary, web lookups |
+| 🤖 **AI** | GPT, Llama, Mistral chat |
+| 🎮 **Games** | Hangman, Tic-Tac-Toe, Sudoku, trivia |
+| 😄 **Fun** | Jokes, compliments, quotes, shayari, memes |
+| 🔎 **Stalk** | Instagram, TikTok, Telegram, GitHub, NPM lookups |
+| 🎵 **Music** | Song search, play, lyrics, Shazam |
+| 🔍 **Search** | Wikipedia, dictionary, movies, news |
+| ℹ️ **Info** | Whois, weather, IP lookup, bot stats |
+| 🧰 **Utility** | Everyday helper commands |
+| 💬 **General** | ping, alive, uptime |
+| 📜 **Quotes** | Quote and text generators |
+| 📋 **Menu** | Full command list |
 
 </div>
 
-Run **`.menu`** (or `.list`) inside WhatsApp any time to see the live, categorized command list.
+Send **`.menu`** or **`.list`** in WhatsApp to see every command live.
 
 <br>
 
@@ -134,10 +140,10 @@ Run **`.menu`** (or `.list`) inside WhatsApp any time to see the live, categoriz
 
 ## ⚙️ Requirements
 
-- **Node.js 20+**
-- A WhatsApp account for pairing (a second/spare number is recommended)
-- Git (for cloning) — or just download the ZIP
-- *(Optional)* MongoDB / PostgreSQL / MySQL if you don't want JSON file storage
+- **Node.js 20 or higher**
+- A WhatsApp number to link (a spare number is recommended)
+- Git, or just download the ZIP
+- *(Optional)* MongoDB, PostgreSQL or MySQL
 
 <br>
 
@@ -153,9 +159,7 @@ cd subhan-md
 # 2. Install dependencies
 npm install
 
-# 3. Configure your environment
-cp sample.env .env
-# edit .env with your SESSION_ID or PAIRING_NUMBER
+# 3. Create your .env file (see Configuration below)
 
 # 4. Start the bot
 npm start
@@ -171,14 +175,12 @@ node index.js --qr-code
 
 ---
 
-## 🔑 Session Setup
+## 🔑 Connect WhatsApp
 
-SUBHAN-MD supports two ways to connect your WhatsApp account:
+1. **Pairing code (easiest):** set `PAIRING_NUMBER` in `.env` (country code, no `+` or spaces). Start the bot, then open **WhatsApp → Linked Devices → Link with phone number** and enter the code shown in the logs.
+2. **Session ID:** set `SESSION_ID` in `.env`. Good for cloud hosts where you cannot watch the terminal.
 
-1. **Pairing Code (recommended)** — set `PAIRING_NUMBER` in your `.env` to your WhatsApp number (with country code, no `+` or spaces). On startup the bot prints an 8-digit code — enter it in **WhatsApp → Linked Devices → Link with phone number**.
-2. **Session ID** — generate a session and set it as `SESSION_ID` in your `.env`. Ideal for one-click cloud deployments where you can't watch the terminal.
-
-Never share your `SESSION_ID` publicly — it gives full access to your WhatsApp account.
+> ⚠️ Never share your `SESSION_ID` or `.env` file. It gives full access to your WhatsApp account.
 
 <br>
 
@@ -186,68 +188,74 @@ Never share your `SESSION_ID` publicly — it gives full access to your WhatsApp
 
 ## 🔧 Configuration
 
-All configuration is handled through environment variables (see `sample.env`):
+Create a file named `.env` in the project folder:
+
+```env
+PAIRING_NUMBER=923001234567
+OWNER_NUMBER=923001234567
+BOT_NAME=SUBHAN-MD
+BOT_OWNER=M Subhan Ali
+PREFIXES=.,!,/
+COMMAND_MODE=public
+TIMEZONE=Asia/Karachi
+PORT=5000
+```
 
 <div align="center">
 
 | Variable | Description | Default |
 |:---|:---|:---|
-| `SESSION_ID` | Session credential string | *(empty)* |
-| `PAIRING_NUMBER` | Number to receive a pairing code | *(empty)* |
-| `BOT_NAME` | Display name of the bot | `𝐒ᴜʙʜᴀɴ-𝐌ᴅ` |
-| `BOT_OWNER` | Owner name shown in replies | `ᴍ sᴜʙʜᴀɴ ᴀʟɪ` |
-| `OWNER_NUMBER` | Your WhatsApp number | *(empty)* |
-| `PREFIXES` | Comma-separated command prefixes | `.,!,/` |
-| `COMMAND_MODE` | `public` or `private` | `private` |
+| `SESSION_ID` | Session credential string | empty |
+| `PAIRING_NUMBER` | Number that receives the pairing code | empty |
+| `OWNER_NUMBER` | Owner WhatsApp number | empty |
+| `BOT_NAME` | Bot display name | SUBHAN-MD |
+| `BOT_OWNER` | Owner name shown in replies | M Subhan Ali |
+| `PREFIXES` | Command prefixes, comma separated | `.` `!` `/` `#` |
+| `COMMAND_MODE` | `public` or `private` | `public` |
 | `TIMEZONE` | Bot timezone | `Asia/Karachi` |
-| `PORT` | HTTP status server port | `5000` |
-| `MONGO_URL` | MongoDB connection string | *(empty)* |
-| `POSTGRES_URL` | PostgreSQL connection string | *(empty)* |
-| `MYSQL_URL` | MySQL connection string | *(empty)* |
-| `DB_URL` | SQLite file path | *(empty)* |
-| `REMOVEBG_KEY` | Remove.bg API key | *(empty)* |
+| `PORT` | Status server port | `5000` |
+| `MONGO_URL` | MongoDB connection string | empty |
+| `POSTGRES_URL` | PostgreSQL connection string | empty |
+| `MYSQL_URL` | MySQL connection string | empty |
+| `DB_URL` | SQLite file path | empty |
+| `REMOVEBG_KEY` | remove.bg API key (optional) | empty |
+| `MAX_STORE_MESSAGES` | Messages kept in memory (lower = less RAM) | 20 |
 
 </div>
 
-Leave every database variable blank to use the built-in JSON file storage — no setup required.
+Leave all database variables empty to use the built-in JSON storage.
 
 <br>
 
 ---
 
-## ☁️ One-Click Deployment
-
-Pick a platform and hit deploy — SUBHAN-MD ships with ready-made config for all three:
+## ☁️ Free Deployment
 
 <div align="center">
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subhanmdofficial/subhan-md)
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/subhanmdofficial/subhan-md)
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/subhanmdofficial/subhan-md)
+| Platform | Button | Config |
+|:---|:---|:---|
+| **Heroku** | [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subhanmdofficial/subhan-md) | `app.json`, `heroku.yml`, `Procfile` |
+| **Railway** | [![Deploy](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/subhanmdofficial/subhan-md) | `railway.json` |
+| **Render** | [![Deploy](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/subhanmdofficial/subhan-md) | `render.yaml` |
 
 </div>
 
-- **Heroku** — uses `app.json` + `heroku.yml` (Node buildpack, `web` dyno running `node index.js`).
-- **Railway** — uses `railway.json` (Nixpacks build, auto-restart on failure).
-- **Render** — uses `render.yaml` (free web service, `npm install` + `node index.js`).
-
-You can also self-host on any **VPS** or **Termux** — just follow [Quick Start](#-quick-start) above.
+Also works on a **VPS**, a **Pterodactyl panel** and **Termux** via the [Quick Start](#-quick-start).
 
 <br>
 
 ---
 
-## 🗄️ Storage Backends
+## 🗄️ Database Support
 
-SUBHAN-MD auto-detects your database from `.env` — no code changes needed:
-
-| Backend | Env Variable | Best For |
+| Backend | Variable | Best for |
 |:---|:---|:---|
-| **JSON** *(default)* | *(none required)* | Local testing, small deployments |
-| **MongoDB** | `MONGO_URL` | Cloud deployments, easy scaling |
-| **PostgreSQL** | `POSTGRES_URL` | Relational/self-hosted setups |
-| **MySQL** | `MYSQL_URL` | Traditional hosting environments |
-| **SQLite** | `DB_URL` | Lightweight local persistence |
+| **JSON** (default) | none | Testing, small bots |
+| **MongoDB** | `MONGO_URL` | Cloud hosting |
+| **PostgreSQL** | `POSTGRES_URL` | Self-hosted setups |
+| **MySQL** | `MYSQL_URL` | Traditional hosting |
+| **SQLite** | `DB_URL` | Light local storage |
 
 <br>
 
@@ -255,19 +263,82 @@ SUBHAN-MD auto-detects your database from `.env` — no code changes needed:
 
 ## 🧩 Plugin System
 
-Every command lives in its own file inside `plugins/` and exports a single config object:
+Every command is one file inside `plugins/`:
 
 ```js
 export default {
-    command: 'ban',
-    aliases: ['block', 'banuser'],
-    category: 'admin',
-    description: 'Ban a user from using the bot',
-    // handler logic...
+    command: 'ping',
+    aliases: ['p'],
+    category: 'general',
+    description: 'Check bot speed',
+    async handler(sock, message, args, context) {
+        // your code here
+    }
 };
 ```
 
-Drop a new `.js` file into `plugins/` following this pattern and it's picked up automatically on the next restart — no manual registration, no editing a master file.
+Drop a new file in `plugins/` and restart. It loads automatically.
+
+<br>
+
+---
+
+## 🇵🇰 Roman Urdu Guide
+
+**SUBHAN-MD kya hai?** Ye free WhatsApp bot hai jo Pakistan me M Subhan Ali ne banaya hai. Isme 300 se zyada commands hain: downloader, sticker maker, AI chat, group protection, games aur bohat kuch.
+
+**Kaise chalayen?**
+
+1. Is repo ko **Fork** ya **Download ZIP** karein.
+2. Railway, Render ya Heroku ka **Deploy** button dabayein.
+3. `PAIRING_NUMBER` me apna WhatsApp number likhein (country code ke saath, `+` ke baghair).
+4. Bot start hone par logs me 8 digit ka code aayega.
+5. WhatsApp me **Linked Devices → Link with phone number** me code daalein.
+6. Bot me `.menu` likh kar saari commands dekhein.
+
+**Zaroori:** apna `SESSION_ID` aur `.env` file kisi ko na dein.
+
+<br>
+
+---
+
+## ❓ FAQ
+
+<details>
+<summary><b>Who made SUBHAN-MD?</b></summary>
+
+M Subhan Ali (SUBHAN MD) from Pakistan. See the [official notice](#-official-repository) above.
+</details>
+
+<details>
+<summary><b>Is SUBHAN-MD free?</b></summary>
+
+Yes. It is free and open source under the MIT License.
+</details>
+
+<details>
+<summary><b>Is there a SUBHAN-MD mini bot?</b></summary>
+
+SUBHAN-MD is built to run light on free hosting, so it works as a mini bot on small servers. Lower `MAX_STORE_MESSAGES` to save more RAM.
+</details>
+
+<details>
+<summary><b>Which hosting is best for a free WhatsApp bot?</b></summary>
+
+Railway, Render and Heroku have ready deploy buttons. A VPS, Pterodactyl panel or Termux also work.
+</details>
+
+<details>
+<summary><b>Does it use Baileys?</b></summary>
+
+Yes, `@whiskeysockets/baileys` with multi-device support.
+</details>
+
+<details>
+<summary><b>Can I add my own commands?</b></summary>
+
+Yes. Add a file to `plugins/` and restart. See [Plugin System](#-plugin-system).
+</details>
 
 <br>
 
@@ -275,12 +346,29 @@ Drop a new `.js` file into `plugins/` following this pattern and it's picked up 
 
 ## 🩺 Troubleshooting
 
-| Issue | Fix |
+| Problem | Fix |
 |:---|:---|
-| Bot won't pair / QR keeps expiring | Delete the session folder and re-pair fresh |
-| High RAM usage on free hosting | Lower `MAX_STORE_MESSAGES` in `.env` |
-| Commands not responding | Check `COMMAND_MODE` and your prefix in `PREFIXES` |
-| Database not connecting | Double-check the connection string; JSON storage is used automatically if it's blank |
+| Pairing code not working or QR expires | Delete the `session` folder and link again |
+| High RAM on free hosting | Lower `MAX_STORE_MESSAGES` in `.env` |
+| Commands do not reply | Check `COMMAND_MODE` and `PREFIXES` |
+| Database not connecting | Check the connection string. JSON storage is used if empty |
+| Port already in use | Change `PORT` in `.env` |
+
+Still stuck? [Open an issue](https://github.com/subhanmdofficial/subhan-md/issues).
+
+<br>
+
+---
+
+## ⭐ Star History
+
+<div align="center">
+
+<a href="https://star-history.com/#subhanmdofficial/subhan-md&Date">
+  <img src="https://api.star-history.com/svg?repos=subhanmdofficial/subhan-md&type=Date" width="80%" alt="SUBHAN-MD Star History"/>
+</a>
+
+</div>
 
 <br>
 
@@ -288,20 +376,20 @@ Drop a new `.js` file into `plugins/` following this pattern and it's picked up 
 
 ## ⚠️ Disclaimer
 
-This project is **not affiliated with, endorsed by, or officially connected to WhatsApp Inc. or Meta Platforms** in any way. Use it responsibly and in line with WhatsApp's Terms of Service — the developer is not responsible for any account restrictions resulting from misuse.
-
-<br>
-
----
+This project is **not affiliated with, endorsed by, or connected to WhatsApp Inc. or Meta Platforms**. Use it responsibly and follow WhatsApp's Terms of Service. The developer is not responsible for any account restrictions caused by misuse.
 
 ## 📜 License
 
-Licensed under the **MIT License**. See [`LICENSE`](./LICENSE) for details.
-
-<br>
+Released under the **MIT License**. See [`LICENSE`](./LICENSE). © 2026 M Subhan Ali.
 
 <div align="center">
 
-**𝐒ᴜʙʜᴀɴ-𝐌ᴅ** — built with 🖤 in Pakistan 🇵🇰 by **M Subhan Ali**
+**SUBHAN-MD** · Built with 🖤 in Pakistan 🇵🇰 by **M Subhan Ali**
+
+⭐ If this project helped you, please star the repo.
+
+<sub>Keywords: subhan md, subhan-md, subhan md bot, subhan md mini bot, free whatsapp bot, whatsapp md bot, whatsapp multi device bot, baileys whatsapp bot, pakistan whatsapp bot, whatsapp bot github, deploy whatsapp bot free, m subhan ali</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:25D366,50:128C7E,100:075E54&height=140&section=footer" width="100%" alt=""/>
 
 </div>
